@@ -1,6 +1,9 @@
 {
   "name": "bs-react-native-next",
   "namespace": "react-native",
+  "reason": {
+    "react-jsx": 3
+  },
   "refmt": 3,
   "package-specs": {
     "module": "es6",
